@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Personajes de Super Mario Bros</string>
+
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="peach">Peach</string>
+    <string name="toad">Toad</string>
+
+    <string name="descripcion">DESCRIPCIÓN</string>
+    <string name="habilidad">HABILIDAD</string>
+
+    <string name="dMario">Héroe del Reino Champiñón</string>
+    <string name="dLuigi">Hermano de Mario</string>
+    <string name="dPeach">Princesa del Reino Champiñón</string>
+    <string name="dToad">Sirviente de la princesa</string>
+
+    <string name="hMario">Salta alto</string>
+    <string name="hLuigi">Salta aún más alto</string>
+    <string name="hPeach">Flota en el aire</string>
+    <string name="hToad">Corre rápido</string>
+
+    <string name="acerca">Acerca de...</string>
+    <string name="dialogTxt">Aplicación desarrollada por Eduardo Amador González. Versión 1.0.</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="bienvenido">Bienvenido al mundo de Mario</string>
+    <string name="seleccionado">Se ha seleccionado el personaje</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_settings">Ajustes</string>
+
+    <string name="idioma">Idioma</string>
+    <string name="espanol">Español</string>
+    <string name="english">English</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Super Mario Bros Characters</string>
+
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="peach">Peach</string>
+    <string name="toad">Toad</string>
+
+    <string name="descripcion">DESCRIPTION</string>
+    <string name="habilidad">HABILITY</string>
+
+    <string name="dMario">Hero of the Mushroom Kingdom</string>
+    <string name="dLuigi">Mario\'s brother</string>
+    <string name="dPeach">Princess of the Mushroom Kingdom</string>
+    <string name="dToad">Princess servant</string>
+
+    <string name="hMario">Jumps high</string>
+    <string name="hLuigi">Jumps even higher</string>
+    <string name="hPeach">Floats in the air</string>
+    <string name="hToad">Runs fast</string>
+
+    <string name="acerca">About...</string>
+    <string name="dialogTxt">Application developed by Eduardo Amador González. Version 1.0.</string>
+    <string name="aceptar">Accept</string>
+
+    <string name="bienvenido">Welcome to Mario\'s world</string>
+    <string name="seleccionado">You have selected</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="idioma">Language</string>
+    <string name="espanol">Español</string>
+    <string name="english">English</string>
+</resources>
